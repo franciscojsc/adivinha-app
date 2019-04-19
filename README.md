@@ -1,2 +1,9 @@
-# adivinha-app
-Aplicativo que gera um número de 0 - 10 aleatoriamente.
+[image]: https://lh3.googleusercontent.com/eYTguNNw14_lgP18hRoGajFZOOp133_7QJ7rlxJ-RngCWZEkjV8hriEO5Z2lopWgaH3r00v7A7J4g31xysv79y7LVoEhjJ3sFlzY01BX51w5V4S9paLIdLA99HPfLva6AaYBBUJALV3LtxBfg6cd5Nhy92AV54f81fEMMDOT89jB4h1ui0WCtxFy9eut_gP0b7e_fh8osR_tG8uadc3gXr4Y1zk38jq_J7xau3xRFHoGLV57CnyY5fWLzjG9N4rlKjntdn-jWyyfu7r879x5psPOUCOD4b_-th4mvcPsQK8wEh84qYiwi77-74LcNDdAltKdRZDsWp0rVFhrPgofIrbrlPIXiTgIAhs0ZS8_cmFMW-dLQGcqd9ngLOOdxUzhX_LXqffPdJALqjRzPjDxrRTneiXFqcnxDtj1bcVPk-Dtbeh8cFRNajXICVG5HVuvWiYqTey2mC2eRMqcQJUIIGf_-ksR6GNA6cPbE9k3TpnB9dExxp8iWgvUQVSjWuC7ei2GxoNJElz_eBL3sNJdt9HNXkZqgyarsTI7et2rMjRrR_1Ddo-8Dexz4dsgi7TyFHqM3YwJBUL0zZ3i-UkVx7vmzfXyjDL4gY8VX_Tv3YX1-wTEXx2tUtSlKChqO95rJDYi6ifvVg7P4sFnk3ZMYeHCpajX4Po2I66p8RPT0qx_3r6cKISEbpa_jPnwPSduH1ZV2O1xftMhRD-l4cyq6bS2dQ=w501-h640-no
+
+# Adivinha app
+
+![bola-de-cristal][image]
+
+Image by <a href="https://pixabay.com/users/Clker-Free-Vector-Images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=309456">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=309456">Pixabay</a>
+
+## Aplicativo que gera um número de 0 - 10 aleatoriamente.
